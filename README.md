@@ -44,3 +44,4 @@ The following APIs are utilized within the MovieFix application:
 
 1. GitHub Repository: [https://github.com/vkalekar01/moviefix.git]
 2. Application Demo: [https://go.screenpal.com/watch/cZ1XQwVN4vi]
+3. Online link: [https://inquisitive-platypus-d27f6b.netlify.app/]
